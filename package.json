@@ -1,0 +1,22 @@
+{
+  "name": "asynchronous-programming-in-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITP-405-Spring-2020-Demos/asynchronous-programming-in-node.git"
+  },
+  "author": "David Tang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ITP-405-Spring-2020-Demos/asynchronous-programming-in-node/issues"
+  },
+  "homepage": "https://github.com/ITP-405-Spring-2020-Demos/asynchronous-programming-in-node#readme",
+  "dependencies": {
+    "sqlite3": "^4.1.1"
+  }
+}
