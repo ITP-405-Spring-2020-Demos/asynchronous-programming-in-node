@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ITP-405-Spring-2020-Demos/asynchronous-programming-in-node#readme",
   "dependencies": {
+    "knex": "^0.20.13",
     "sqlite3": "^4.1.1"
   }
 }
